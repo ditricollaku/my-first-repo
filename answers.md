@@ -13,3 +13,14 @@ Commands used:
 - git init
 - touch README.txt
 
+## Part 3: Your First Commit
+
+- Command that shows the current state of the repository:
+  - git status
+- Command that stages readme.txt for commit:
+  - git add readme.txt
+- Command that commits with the message "Add readme file":
+  - git commit -m "Add readme file"
+- Command that shows the commit history:
+  - git log
+

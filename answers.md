@@ -80,3 +80,11 @@ The feature-script branch was deleted after merging.
   - git push -u origin master
 After refreshing GitHub, I can see my files and commits on the repository page.
 
+## Part 10: Delete and Clone
+
+- Command to delete the local repository folder:
+  - rm -rf my-first-repo
+- Command to clone the repository from GitHub:
+  - git clone https://github.com/ditricollaku/my-first-repo.git
+After cloning, I navigated into the folder and verified the files were present using ls.
+

@@ -32,3 +32,12 @@ will not be included in a commit until it is added to the staging area.
 
 Number of commits so far: (5)
 
+## Part 5: Exploration
+
+- git diff:
+  Shows the differences between the working directory and the last commit.
+  It helps see what has changed before committing.
+- git log --oneline:
+  Shows a simplified view of the commit history with one commit per line,
+  including a short commit hash and the commit message.
+

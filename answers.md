@@ -56,3 +56,12 @@ Number of commits so far: (5)
 - To verify the current branch:
   - git status or git branch
 
+## Part 7: Bash Script on a Branch
+
+- Created install.sh on the feature-script branch
+- Added a shebang line
+- Printed start and end messages
+- Updated package list and installed a package
+- Made the script executable
+- Committed the script to the feature branch
+

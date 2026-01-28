@@ -65,3 +65,10 @@ Number of commits so far: (5)
 - Made the script executable
 - Committed the script to the feature branch
 
+## Part 8: Merge Branches
+
+Before merging, install.sh was not present on main because it was created on the feature-script branch.
+After merging feature-script into main, install.sh appears in the directory.
+The commit history now includes commits from both branches.
+The feature-script branch was deleted after merging.
+

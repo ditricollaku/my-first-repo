@@ -41,3 +41,18 @@ Number of commits so far: (5)
   Shows a simplified view of the commit history with one commit per line,
   including a short commit hash and the commit message.
 
+## Part 6: Working with Branches
+
+- Command to list all branches:
+  - git branch
+- Command to create a new branch called feature-script:
+  - git branch feature-script
+- Command to switch to feature-script:
+  - git switch feature-script
+- Command to create and switch to a new branch called dev:
+  - git switch -c dev
+- Command to switch back to feature-script:
+  - git switch feature-script
+- To verify the current branch:
+  - git status or git branch
+

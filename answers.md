@@ -72,3 +72,11 @@ After merging feature-script into main, install.sh appears in the directory.
 The commit history now includes commits from both branches.
 The feature-script branch was deleted after merging.
 
+## Part 9: Push to GitHub
+
+- Command that links local repo to GitHub:
+  - git remote add origin https://github.com/ditricollaku/my-first-repo.git
+- Command that pushes commits to GitHub:
+  - git push -u origin master
+After refreshing GitHub, I can see my files and commits on the repository page.
+

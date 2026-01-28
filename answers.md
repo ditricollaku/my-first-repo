@@ -24,3 +24,11 @@ Commands used:
 - Command that shows the commit history:
   - git log
 
+## Part 4: Make Changes
+
+After editing README.txt, git status shows that the file has been modified
+but the changes are not staged yet. This means Git sees the change, but it
+will not be included in a commit until it is added to the staging area.
+
+Number of commits so far: (5)
+
